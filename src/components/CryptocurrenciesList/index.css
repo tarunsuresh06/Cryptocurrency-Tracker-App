@@ -1,0 +1,35 @@
+.currency-list-container {
+  width: 80%;
+  max-width: 900px;
+  border: 4px solid #00e7ff;
+  border-radius: 8px;
+  padding: 0;
+}
+
+.header-list-item {
+  padding: 25px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'Roboto';
+  color: #ffffff;
+  width: 100%;
+  background-color: #092e33;
+  list-style-type: none;
+}
+
+.header-list-text {
+  font-size: 27px;
+  font-weight: 800;
+  margin-right: 20px;
+  width: 100px;
+  text-align: left;
+}
+
+.header-list-title {
+  font-size: 27px;
+  font-weight: 800;
+  margin-right: 20px;
+  width: 200px;
+  text-align: left;
+}
